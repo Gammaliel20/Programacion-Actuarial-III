@@ -1,0 +1,43 @@
+---
+title: "KARDEX"
+author: "Gammaliel Rodriguez"
+date: "7 de febrero de 2017"
+output:
+  html_document: default
+  word_document: default
+---
+
+###OTOÑO 2014
+- Matemáticas Básicas .. 05
+- Problemas de Matemáticas Básicas .. 05
+- Conceptos de Calculo .. 05
+- Introducción a la Profesión Actuarial .. 05
+- Programación Actuarial .. 06
+- DHPC .. 09
+
+###PRIMAVERA 2015
+- Matemáticas Básicas .. 07
+- Problemas de Matemáticas Básicas .. 07
+- Conceptos de Calculo ..08
+- Microeconomía .. 09
+- Geometría Analítica ... 08
+- Teoría del Interés I .. 08
+
+###OTOÑO 2015
+- Calculo Diferencial .. 05
+- Macroeconomía .. 08
+- Teoría del Interés II .. 08
+- Teoría de Ecuaciones .. 05
+- Formación Humana y Social .. 09
+
+###PRIMAVERA 2016
+- Calculo Diferencial ... 07
+- Teoría de Ecuaciones ... 06
+- Sistema Financiero Mexicano .. 10
+
+###OTOÑO 2016
+- Introducción a la P.A ... 06
+- Calculo Integral ... 07
+- Programación Actuarial II ... 06
+- Registro Académico ... 07
+- Algebra Lineal .... 06
