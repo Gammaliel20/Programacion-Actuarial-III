@@ -8,4 +8,3 @@ completos <- function(directorio, id = 1:332){
     }
     return(data.frame(id, dul))
 }
-
