@@ -4,7 +4,6 @@ author: "Gammaliel Rodriguez"
 date: "7 de febrero de 2017"
 output:
   html_document: default
-  word_document: default
 ---
 
 ###OTOÑO 2014
@@ -15,6 +14,7 @@ output:
 - Programación Actuarial .. 06
 - DHPC .. 09
 
+  word_document: default
 ###PRIMAVERA 2015
 - Matemáticas Básicas .. 07
 - Problemas de Matemáticas Básicas .. 07
